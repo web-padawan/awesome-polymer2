@@ -7,6 +7,9 @@
 * [Official Site](https://www.polymer-project.org)
 * [Blog](https://blog.polymer-project.org/)
 
+## Videos
+* [Polymer 2.0: Under the Hood](https://www.youtube.com/watch?v=iJ9hS54BRag)
+
 ## Elements
 * [Vaadin Core Elements](https://github.com/vaadin/vaadin-core-elements)
 

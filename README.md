@@ -12,8 +12,9 @@
 * [Polymer 2.0: Under the Hood](https://www.youtube.com/watch?v=iJ9hS54BRag)
 
 ## Elements
-* [Google Web Components](https://www.webcomponents.org/collection/GoogleWebComponents/google-web-components)
-* [Vaadin Core Elements](https://github.com/vaadin/vaadin-core-elements)
+* [Vaadin Core Elements](https://github.com/vaadin/vaadin-core-elements) - themable UI elements (Material and Valo themes)
+* [Paper Elements](https://www.webcomponents.org/collection/PolymerElements/paper-elements) - Material design UI elements
+* [Iron elements](https://www.webcomponents.org/collection/PolymerElements/iron-elements) - basic building blocks for creating an application (a11y, ajax, test helpers, etc.)
 
 ## Directories
 * [Webcomponents.org](https://webcomponents.org/)

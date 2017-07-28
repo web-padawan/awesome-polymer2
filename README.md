@@ -9,6 +9,7 @@
 
 ## Videos
 * [Polymer Starter Kit 2](https://www.youtube.com/watch?v=HgJ0XCyBwzY)
+* [Learn Polymer with Vaadin Elements](https://www.youtube.com/watch?v=wKqfFt1IZdA)
 * [Building a Polymer 2 Progressive Web App with the Polymer CLI](https://www.youtube.com/watch?v=e_7i9evLJpw)
 * [Polymer 2.0: Under the Hood](https://www.youtube.com/watch?v=iJ9hS54BRag)
 

@@ -1,5 +1,5 @@
 # Awesome Polymer 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<a href="https://www.polymer-project.org"><img src="https://www.polymer-project.org/images/logos/p-logo.png" align="left" height="64" width="92"></a>
+<a href="https://www.polymer-project.org"><img src="https://www.polymer-project.org/images/logos/p-logo.png" align="left" height="32" width="46"></a>
 > A collection of awesome Polymer 2 resources
 
 ## General resources
@@ -8,9 +8,11 @@
 * [Blog](https://blog.polymer-project.org/)
 
 ## Videos
+* [Building a Polymer 2 Progressive Web App with the Polymer CLI](https://www.youtube.com/watch?v=e_7i9evLJpw)
 * [Polymer 2.0: Under the Hood](https://www.youtube.com/watch?v=iJ9hS54BRag)
 
 ## Elements
+* [Google Web Components](https://www.webcomponents.org/collection/GoogleWebComponents/google-web-components)
 * [Vaadin Core Elements](https://github.com/vaadin/vaadin-core-elements)
 
 ## Directories

@@ -1,11 +1,11 @@
 # Awesome Polymer 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/limonte/awesome-polymer2.svg?branch=master)](https://travis-ci.org/limonte/awesome-polymer2)
 <a href="https://www.polymer-project.org"><img src="https://www.polymer-project.org/images/logos/p-logo.png" align="left" height="32" width="46"></a>
-> A collection of awesome Polymer 2 resources
+> A curated list of awesome Polymer 2 resources. No outdated Polymer 1 links, no bullshit.
 
 ## General resources
-* [Github](https://github.com/polymer/project) All things related to the Polymer project - Roadmap, Code of Conduct, How to Contribute, and more.
 * [Official Site](https://www.polymer-project.org)
 * [Blog](https://blog.polymer-project.org/)
+* [GitHub repository](https://github.com/polymer/polymer)
 
 ## Videos
 * [Polymer Starter Kit 2](https://www.youtube.com/watch?v=HgJ0XCyBwzY)

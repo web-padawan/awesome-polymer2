@@ -21,6 +21,10 @@
 ## Directories
 * [Webcomponents.org](https://webcomponents.org/)
 
+## Tutorials
+* [Build your first Polymer 2 element](https://www.polymer-project.org/2.0/start/first-element/intro)
+* [Build your first Polymer 2 app](https://www.polymer-project.org/2.0/start/toolbox/set-up)
+
 ## Tools
 * [Polymer CLI](https://github.com/Polymer/polymer-cli) The command-line tool for initialization, serving, linting, testing, building, azalyzing.
 * [Polygit](http://polygit.org/) The Magic Server serves files directly from github (via ```cdn.rawgit.com```) in a manner that is compatible with HTML Imports natural deduplication feature.

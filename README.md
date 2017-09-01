@@ -27,9 +27,9 @@
 * [Polymer 2.0: Under the Hood](https://www.youtube.com/watch?v=iJ9hS54BRag)
 
 ## Elements
-* [Vaadin Core Elements](https://github.com/vaadin/vaadin-core-elements) - themable UI elements (Material and Valo themes).
+* [Vaadin Core Elements](https://github.com/vaadin/vaadin-core-elements) - Themable UI elements (Material and Valo themes).
 * [Paper Elements](https://www.webcomponents.org/collection/PolymerElements/paper-elements) - Material design UI elements.
-* [Iron elements](https://www.webcomponents.org/collection/PolymerElements/iron-elements) - basic building blocks for creating an application (a11y, ajax, test helpers, etc.).
+* [Iron elements](https://www.webcomponents.org/collection/PolymerElements/iron-elements) - Basic building blocks for creating an application (a11y, ajax, test helpers, etc.).
 
 ## Directories
 * [Webcomponents.org](https://webcomponents.org/)
@@ -46,12 +46,12 @@
 * [Polymer 2 jsfiddles](https://github.com/limonte/awesome-polymer2/wiki/Playground-%E2%80%93-Polymer-2-jsfiddles)
 
 ## Testing
-* [Web components tester](https://github.com/Polymer/web-component-tester) Makes testing your web components a breeze!
-* [test-fixture](https://github.com/PolymerElements/test-fixture) Element that can simplify the exercise of consistently resetting a test suite's DOM.
-* [iron-test-helpers](https://github.com/PolymerElements/iron-test-helpers) Utility classes to make testing easier.
+* [Web components tester](https://github.com/Polymer/web-component-tester) - Makes testing your web components a breeze!
+* [test-fixture](https://github.com/PolymerElements/test-fixture) - Element that can simplify the exercise of consistently resetting a test suite's DOM.
+* [iron-test-helpers](https://github.com/PolymerElements/iron-test-helpers) - Utility classes to make testing easier.
 
 ## Notable projects
-[Polymer Projects](https://github.com/abdonrd/PolymerProjects) A list of websites and apps built with Polymer.
+* [Polymer Projects](https://github.com/abdonrd/PolymerProjects) - List of websites and apps built with Polymer.
 
 
 ## Other awesome resources

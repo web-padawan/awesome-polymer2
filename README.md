@@ -39,14 +39,14 @@
 * [Build your first Polymer 2 app](https://www.polymer-project.org/2.0/start/toolbox/set-up)
 
 ## Tools
-* [Polymer CLI](https://github.com/Polymer/polymer-cli) The command-line tool for initialization, serving, linting, testing, building, azalyzing.
-* [Polygit](http://polygit.org/) The Magic Server serves files directly from github (via ```cdn.rawgit.com```) in a manner that is compatible with HTML Imports natural deduplication feature.
+* [Polymer CLI](https://github.com/Polymer/polymer-cli) - Command-line tool for initialization, serving, linting, testing, building, azalyzing.
+* [Polygit](http://polygit.org/) - Magic Server serves files directly from github (via ```cdn.rawgit.com```) in a manner that is compatible with HTML Imports natural deduplication feature.
 
 ## Playground
 * [Polymer 2 jsfiddles](https://github.com/limonte/awesome-polymer2/wiki/Playground-%E2%80%93-Polymer-2-jsfiddles)
 
 ## Testing
-* [Web components tester](https://github.com/Polymer/web-component-tester) - Makes testing your web components a breeze!
+* [web-component-tester](https://github.com/Polymer/web-component-tester) - Makes testing your web components a breeze!
 * [test-fixture](https://github.com/PolymerElements/test-fixture) - Element that can simplify the exercise of consistently resetting a test suite's DOM.
 * [iron-test-helpers](https://github.com/PolymerElements/iron-test-helpers) - Utility classes to make testing easier.
 

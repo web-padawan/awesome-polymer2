@@ -27,9 +27,9 @@
 * [Polymer 2.0: Under the Hood](https://www.youtube.com/watch?v=iJ9hS54BRag)
 
 ## Elements
-* [Vaadin Core Elements](https://github.com/vaadin/vaadin-core-elements) - themable UI elements (Material and Valo themes)
-* [Paper Elements](https://www.webcomponents.org/collection/PolymerElements/paper-elements) - Material design UI elements
-* [Iron elements](https://www.webcomponents.org/collection/PolymerElements/iron-elements) - basic building blocks for creating an application (a11y, ajax, test helpers, etc.)
+* [Vaadin Core Elements](https://github.com/vaadin/vaadin-core-elements) - themable UI elements (Material and Valo themes).
+* [Paper Elements](https://www.webcomponents.org/collection/PolymerElements/paper-elements) - Material design UI elements.
+* [Iron elements](https://www.webcomponents.org/collection/PolymerElements/iron-elements) - basic building blocks for creating an application (a11y, ajax, test helpers, etc.).
 
 ## Directories
 * [Webcomponents.org](https://webcomponents.org/)
@@ -51,7 +51,7 @@
 * [iron-test-helpers](https://github.com/PolymerElements/iron-test-helpers) Utility classes to make testing easier.
 
 ## Notable projects
-[Polymer Projects](https://github.com/abdonrd/PolymerProjects) A list of websites and apps built with Polymer
+[Polymer Projects](https://github.com/abdonrd/PolymerProjects) A list of websites and apps built with Polymer.
 
 
 ## Other awesome resources

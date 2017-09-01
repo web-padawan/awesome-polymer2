@@ -3,6 +3,18 @@
 <a href="https://www.polymer-project.org"><img src="https://www.polymer-project.org/images/logos/p-logo.png" align="left" height="32" width="46"></a>
 > A curated list of awesome Polymer 2 resources. No outdated Polymer 1 links, no bullshit.
 
+## Contents
+
+- [General resources](#general-resources)
+- [Videos](#videos)
+- [Elements](#elements)
+- [Directories](#directories)
+- [Tutorials](#tutorials)
+- [Tools](#tools)
+- [Playground](#playground)
+- [Testing](#testing)
+- [Notable projects](#notable-projects)
+
 ## General resources
 * [Official Site](https://www.polymer-project.org)
 * [Blog](https://blog.polymer-project.org/)

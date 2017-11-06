@@ -53,6 +53,9 @@
 ## Notable projects
 * [Polymer Projects](https://github.com/abdonrd/PolymerProjects) - List of websites and apps built with Polymer.
 
+## Blogs
+* [Captain Codeman](https://www.captaincodeman.com/tag/polymer)
+* [Collaborne Engineering](https://medium.com/collaborne-engineering/tagged/polymer)
 
 ## Other awesome resources
 **If you want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) list!**
